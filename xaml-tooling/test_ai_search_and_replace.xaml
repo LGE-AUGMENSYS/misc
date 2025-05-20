@@ -1,0 +1,17 @@
+<Grid>
+<SfTabView>
+	<Setter Property="DisplayMode" Value="ImageWithText" />
+</SfTabView>
+<SfTabView>
+	<Setter Property="XXX" Value="XXX" />
+</SfTabView>
+<SfTabView>
+	<Setter Property="DisplayModes" Value="ImageWithTexts" />
+</SfTabView>
+<SfTabView>
+	<Setter Property="Mode" Value="Text" />
+</SfTabView>
+<DisplayMode />
+<Label Text="DisplayMode" />
+<Label Text="ImageWithText" />
+</Grid>
